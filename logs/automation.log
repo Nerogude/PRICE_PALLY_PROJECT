@@ -1,0 +1,392 @@
+14:57:49.283 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+14:57:55.280 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+14:57:55.547 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+14:59:50.684 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+14:59:56.678 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+14:59:56.947 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:00:13.863 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:00:19.878 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:00:20.140 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:01:49.409 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:02:01.058 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:02:01.277 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:02:58.552 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:03:04.470 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:03:04.539 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:11:36.035 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:11:37.100 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:11:40.380 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:11:42.910 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:11:48.843 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:11:49.079 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:11:51.611 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:11:57.484 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:11:57.549 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:11:59.558 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:12:19.069 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:12:20.193 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:12:23.515 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:16:36.506 [TestNG-tests-1] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:16:36.585 [TestNG-tests-2] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:16:38.091 [TestNG-tests-1] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:16:38.178 [TestNG-tests-2] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:16:41.462 [TestNG-tests-1] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:16:41.494 [TestNG-tests-2] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:16:57.797 [TestNG-tests-1] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:16:57.877 [TestNG-tests-2] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:17:04.331 [TestNG-tests-1] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:17:04.353 [TestNG-tests-2] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:17:04.619 [TestNG-tests-1] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:17:04.621 [TestNG-tests-2] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:17:19.287 [TestNG-tests-1] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:17:19.344 [TestNG-tests-2] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:17:31.284 [TestNG-tests-1] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:17:31.360 [TestNG-tests-1] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:17:31.571 [TestNG-tests-2] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:17:31.823 [TestNG-tests-2] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:17:34.105 [TestNG-tests-1] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:17:34.197 [TestNG-tests-2] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:17:40.554 [TestNG-tests-1] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:17:40.636 [TestNG-tests-2] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:17:40.839 [TestNG-tests-1] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:17:40.927 [TestNG-tests-2] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:18:06.157 [TestNG-tests-2] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:18:06.665 [TestNG-tests-1] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:18:13.444 [TestNG-tests-1] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:18:22.610 [TestNG-tests-1] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:19:52.124 [TestNG-tests-1] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:19:52.377 [TestNG-tests-2] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:19:53.784 [TestNG-tests-1] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:19:53.964 [TestNG-tests-2] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:19:57.286 [TestNG-tests-2] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:19:57.311 [TestNG-tests-1] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:20:12.075 [TestNG-tests-1] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:20:12.101 [TestNG-tests-2] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:20:18.398 [TestNG-tests-2] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:20:18.461 [TestNG-tests-1] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:20:18.678 [TestNG-tests-2] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:20:18.801 [TestNG-tests-1] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:20:29.947 [TestNG-tests-1] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:20:29.995 [TestNG-tests-2] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:20:36.373 [TestNG-tests-2] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:20:36.422 [TestNG-tests-2] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:20:36.467 [TestNG-tests-1] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:20:36.571 [TestNG-tests-1] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:20:47.185 [TestNG-tests-2] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:20:47.241 [TestNG-tests-1] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:20:53.321 [TestNG-tests-2] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:20:53.642 [TestNG-tests-2] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:20:53.766 [TestNG-tests-1] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:20:54.070 [TestNG-tests-1] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:21:02.846 [TestNG-tests-2] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:21:02.876 [TestNG-tests-1] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:21:04.541 [TestNG-tests-2] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:21:04.621 [TestNG-tests-1] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:21:07.894 [TestNG-tests-2] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:21:07.943 [TestNG-tests-1] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:24:55.840 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:24:56.875 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:25:00.157 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:25:02.571 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:25:08.576 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:25:08.823 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:25:41.718 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:25:47.729 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:25:47.808 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:26:08.896 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:26:15.075 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:26:15.407 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:26:32.875 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:26:40.005 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:26:43.433 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:30:43.935 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:30:57.245 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:31:00.631 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:31:10.540 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:31:17.339 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:31:17.678 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:31:27.390 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:31:34.714 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:31:34.773 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:31:51.366 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:32:09.400 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:32:09.681 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:32:31.179 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:32:51.745 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:32:55.126 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+11:31:43.899 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+11:31:45.054 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+11:31:48.429 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+11:31:51.359 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+11:31:57.399 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+11:31:57.670 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+11:32:01.658 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+11:32:16.480 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+11:32:16.570 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+11:32:38.208 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+11:32:50.235 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+11:32:50.548 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+11:33:07.154 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+11:33:08.471 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+11:33:11.851 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+11:36:41.268 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+11:36:48.356 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+11:36:51.792 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+11:37:05.155 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+11:37:11.106 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+11:37:11.375 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+11:37:20.798 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+11:37:32.743 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+11:37:32.825 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+11:38:20.896 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+11:38:27.280 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+11:38:27.582 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+11:38:30.853 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+11:38:32.018 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+11:38:35.356 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+11:38:44.992 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+11:38:50.898 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+11:38:51.094 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+14:44:13.897 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+14:44:15.238 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+14:44:18.567 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+14:44:21.292 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+14:44:27.232 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+14:44:27.524 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+14:44:30.219 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+14:44:36.381 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+14:44:36.455 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+14:44:38.563 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+14:44:44.738 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+14:44:45.022 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+14:45:06.698 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+14:45:08.055 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+14:45:11.400 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+14:45:24.134 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+14:45:46.592 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+14:45:46.750 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+14:47:06.843 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+14:47:13.777 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+14:47:24.801 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+14:47:47.272 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+14:47:53.372 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+14:47:53.649 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+14:48:21.756 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+14:48:27.858 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+14:48:27.950 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+14:48:51.896 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+14:48:58.078 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+14:48:58.422 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+14:49:35.084 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+14:49:44.301 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+14:49:47.766 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+14:50:26.246 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+14:50:32.259 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+14:50:32.413 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+14:50:44.063 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+14:50:50.165 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Enter valid login details***
+14:50:50.422 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Assert test***
+15:18:02.719 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:18:03.908 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+15:18:07.425 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+15:18:10.415 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:18:16.519 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:18:16.850 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:18:31.050 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:18:43.236 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:18:43.330 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+15:18:54.134 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:19:06.159 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:19:06.428 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:19:23.851 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:19:30.978 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:19:34.449 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:20:26.444 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+15:21:18.503 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+15:23:48.725 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+15:24:11.495 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+15:24:17.754 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+15:24:19.786 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+15:24:34.867 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+15:24:44.367 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+15:25:10.440 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+15:25:16.903 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+15:25:17.207 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+15:25:20.349 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+15:25:22.155 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+15:25:25.528 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+15:25:32.198 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+15:25:39.048 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+15:25:39.211 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+15:25:41.386 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+15:25:49.079 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Enter valid login details***
+15:40:27.313 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+15:40:33.532 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Enter valid login details***
+15:40:36.781 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Assert test***
+15:56:19.886 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+15:56:25.979 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Enter valid login details***
+15:56:26.232 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Assert test***
+08:47:42.487 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+08:47:43.554 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+08:47:46.918 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+08:47:49.458 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+08:47:55.339 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+08:47:55.623 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+08:47:58.639 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+08:48:04.598 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+08:48:04.692 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+08:48:07.310 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+08:48:18.228 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+08:48:18.528 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+08:48:21.100 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+08:48:22.273 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+08:48:25.573 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+08:48:28.280 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+08:48:34.275 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+08:48:34.384 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+08:48:36.455 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+08:48:42.334 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Enter valid login details***
+08:48:42.539 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Assert test***
+09:24:30.934 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+09:24:38.090 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+09:28:39.598 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+09:28:45.551 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+09:38:16.415 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+09:38:22.311 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+09:38:25.724 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Assert test***
+09:39:26.455 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+09:39:32.433 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+09:39:32.825 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Assert test***
+09:54:08.967 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+09:54:15.058 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+09:54:15.454 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Assert test***
+09:54:17.689 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Starting ForgetPasswordLinkTextFunctionalityWithoutEmail Test***
+09:54:23.685 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Enter valid login details***
+09:54:24.020 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Assert test***
+09:56:32.771 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+09:56:38.651 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+09:56:39.028 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Assert test***
+09:56:41.315 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Starting ForgetPasswordLinkTextFunctionalityWithoutEmail Test***
+09:56:47.210 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Enter valid login details***
+09:56:47.522 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Assert test***
+10:01:04.998 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Starting ForgetPasswordLinkTextFunctionalityWithoutEmail Test***
+10:01:10.981 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Enter valid login details***
+10:01:11.276 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Assert test***
+19:35:00.557 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+19:35:01.678 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+19:35:04.951 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+19:35:07.315 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+19:35:13.278 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+19:35:13.565 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+19:35:16.047 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+19:35:22.064 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+19:35:22.138 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+19:35:24.356 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+19:35:30.260 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+19:35:30.574 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+19:35:32.977 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+19:35:34.185 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+19:35:37.603 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+19:35:40.085 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+19:35:45.868 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+19:35:45.990 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+19:35:48.129 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+19:36:10.010 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+19:36:15.919 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+19:36:16.313 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Assert test***
+19:36:18.197 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Starting ForgetPasswordLinkTextFunctionalityWithoutEmail Test***
+19:36:24.261 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Enter valid login details***
+19:36:24.531 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Assert test***
+08:12:14.608 [main] INFO  testCases.TC_010_GoogleSignupLinkIsEnabled - ***Starting LoginTestWithValidCredentials***
+08:12:20.812 [main] INFO  testCases.TC_010_GoogleSignupLinkIsEnabled - *** login details intentionally kept blank***
+08:12:20.865 [main] INFO  testCases.TC_010_GoogleSignupLinkIsEnabled - ***Assert test***
+08:17:51.734 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - ***Starting LoginTestWithValidCredentials***
+08:17:57.825 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - *** login details intentionally kept blank***
+08:17:57.833 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - ***Assert test***
+08:19:39.322 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - ***Starting LoginTestWithValidCredentials***
+08:19:45.386 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - *** login details intentionally kept blank***
+08:19:45.386 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - ***Assert test***
+08:26:03.244 [main] INFO  testCases.TC_012_AppleSignupLinkIsEnabled - ***Starting VerifyAppleSignupLinkIsEnabled***
+08:26:09.332 [main] INFO  testCases.TC_012_AppleSignupLinkIsEnabled - *** login details intentionally kept blank***
+08:26:09.332 [main] INFO  testCases.TC_012_AppleSignupLinkIsEnabled - ***Assert test***
+08:46:02.158 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Starting VerifyLoginWithGoogle Test***
+08:46:08.233 [main] INFO  testCases.TC_013_LoginWithGoogle - *** login details intentionally kept blank***
+08:46:08.312 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Assert test***
+08:50:58.630 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Starting VerifyLoginWithGoogle Test***
+08:51:04.672 [main] INFO  testCases.TC_013_LoginWithGoogle - *** login details intentionally kept blank***
+08:51:04.765 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Assert test***
+09:54:55.745 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Starting VerifyLoginWithGoogle Test***
+09:55:01.853 [main] INFO  testCases.TC_013_LoginWithGoogle - *** login details intentionally kept blank***
+09:55:01.916 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Assert test***
+09:55:44.380 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Starting VerifyLoginWithGoogle Test***
+09:55:50.571 [main] INFO  testCases.TC_013_LoginWithGoogle - *** login details intentionally kept blank***
+09:55:50.697 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Assert test***
+10:00:34.684 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Starting VerifyLoginWithGoogle Test***
+10:00:40.937 [main] INFO  testCases.TC_013_LoginWithGoogle - *** login details intentionally kept blank***
+10:00:41.020 [main] INFO  testCases.TC_013_LoginWithGoogle - ***Assert test***
+10:33:51.417 [main] INFO  testCases.TC_013_LoginWithFacebook - ***Starting VerifyLoginWithFaceebook Test***
+10:33:57.470 [main] INFO  testCases.TC_013_LoginWithFacebook - *** login details intentionally kept blank***
+10:33:57.529 [main] INFO  testCases.TC_013_LoginWithFacebook - ***Assert test***
+10:37:55.096 [main] INFO  testCases.TC_014_LoginWithApple - ***Starting VerifyLoginWithApple Test***
+10:38:01.048 [main] INFO  testCases.TC_014_LoginWithApple - *** login details intentionally kept blank***
+10:38:01.103 [main] INFO  testCases.TC_014_LoginWithApple - ***Assert test***
+10:42:08.178 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Starting LoginTestWithInvalidEmailAndValidPassword***
+10:42:09.237 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Enter login details***
+10:42:12.524 [main] INFO  testCases.TC_003_LoginFunctionalityWithInvalidEmailAndValidPassword - ***Assert test***
+10:42:14.937 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Starting LoginTestWithValidCredentials***
+10:42:20.901 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Enter valid login details***
+10:42:21.164 [main] INFO  testCases.TC_001_LoginFunctionalityWithValidCredentials - ***Assert test***
+10:42:23.506 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Starting LoginTestWithValidCredentials***
+10:42:29.430 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - *** login details intentionally kept blank***
+10:42:29.493 [main] INFO  testCases.TC_005_LoginFunctionalityWithoutCredentials - ***Assert test***
+10:42:31.280 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Starting LoginTestWithInvalidCredentials***
+10:42:37.186 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Enter invalid login details for invalid test***
+10:42:37.480 [main] INFO  testCases.TC_002_LoginFunctionalityWithInvalidCredentials - ***Assert invalid test***
+10:42:39.674 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Starting LoginTestWithValidEmailAndInvalidPassword***
+10:42:40.835 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Enter login details***
+10:42:44.159 [main] INFO  testCases.TC_004_LoginFunctionalityWithValidEmailAndInvalidPassword - ***Assert test***
+10:42:46.436 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+10:42:52.491 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Enter valid login details***
+10:42:52.613 [main] INFO  testCases.TC_006_ForgetPasswordLinkTextIsDisplayed - ***Assert test***
+10:42:54.491 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+10:43:00.461 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Enter valid login details***
+10:43:00.685 [main] INFO  testCases.TC_007_ForgetPasswordLinkTextFunctionality - ***Assert test***
+10:43:02.511 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Starting ForgetPasswordLinkTextIsDisplayed Test***
+10:43:08.400 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Enter valid login details***
+10:43:08.691 [main] INFO  testCases.TC_008_ForgetPasswordLinkTextFunctionalityWithInvalidEmail - ***Assert test***
+10:43:10.313 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Starting ForgetPasswordLinkTextFunctionalityWithoutEmail Test***
+10:43:16.293 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Enter valid login details***
+10:43:16.539 [main] INFO  testCases.TC_009_ForgetPasswordLinkTextFunctionalityWithoutEmail - ***Assert test***
+10:43:18.206 [main] INFO  testCases.TC_010_GoogleSignupLinkIsEnabled - ***Starting VerifyGoogleSignUpBtnIsEnabled***
+10:43:24.130 [main] INFO  testCases.TC_010_GoogleSignupLinkIsEnabled - *** login details intentionally kept blank***
+10:43:24.133 [main] INFO  testCases.TC_010_GoogleSignupLinkIsEnabled - ***Assert test***
+10:43:25.934 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - ***Starting VerifyFacebookSignUpBtnIsEnabled***
+10:43:31.835 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - *** login details intentionally kept blank***
+10:43:31.837 [main] INFO  testCases.TC_011_FacebookSignupLinkIsEnabled - ***Assert test***
+10:43:33.514 [main] INFO  testCases.TC_012_AppleSignupLinkIsEnabled - ***Starting VerifyAppleSignupLinkIsEnabled***
+10:43:39.500 [main] INFO  testCases.TC_012_AppleSignupLinkIsEnabled - *** login details intentionally kept blank***
+10:43:39.500 [main] INFO  testCases.TC_012_AppleSignupLinkIsEnabled - ***Assert test***
+10:43:41.434 [main] INFO  testCases.TC_013_LoginWithFacebook - ***Starting VerifyLoginWithFaceebook Test***
+10:43:47.519 [main] INFO  testCases.TC_013_LoginWithFacebook - *** login details intentionally kept blank***
+10:43:47.572 [main] INFO  testCases.TC_013_LoginWithFacebook - ***Assert test***
+10:43:49.392 [main] INFO  testCases.TC_014_LoginWithApple - ***Starting VerifyLoginWithApple Test***
+10:43:55.374 [main] INFO  testCases.TC_014_LoginWithApple - *** login details intentionally kept blank***
+10:43:55.433 [main] INFO  testCases.TC_014_LoginWithApple - ***Assert test***
+11:15:55.918 [main] INFO  testCases.TC_015_VerifyWelcomeBackText - ***Starting VerifyWelcomeBackText***
+11:16:01.888 [main] INFO  testCases.TC_015_VerifyWelcomeBackText - *** login details intentionally kept blank***
+11:16:01.926 [main] INFO  testCases.TC_015_VerifyWelcomeBackText - ***Assert test***
+11:21:34.296 [main] INFO  testCases.TC_016_VerifyEmailText - ***Starting VerifyEmailText***
+11:21:40.235 [main] INFO  testCases.TC_016_VerifyEmailText - *** login details intentionally kept blank***
+11:21:40.240 [main] INFO  testCases.TC_016_VerifyEmailText - ***Assert test***
+11:33:10.634 [main] INFO  testCases.TC_016_VerifyEmailText - ***Starting VerifyEmailText***
+11:33:16.633 [main] INFO  testCases.TC_016_VerifyEmailText - *** login details intentionally kept blank***
+11:33:16.641 [main] INFO  testCases.TC_016_VerifyEmailText - ***Assert test***
+11:33:18.754 [main] INFO  testCases.TC_017_VerifyPricepallyLogoIsDisplayed - ***Starting VerifyPricepallyLogoIsDisplayed Test***
+11:33:24.704 [main] INFO  testCases.TC_017_VerifyPricepallyLogoIsDisplayed - *** login details intentionally kept blank***
+11:33:24.705 [main] INFO  testCases.TC_017_VerifyPricepallyLogoIsDisplayed - ***Assert test***
+11:33:26.791 [main] INFO  testCases.TC_018_VerifyPasswordText - ***Starting VerifyPasswordText Test***
+11:33:32.752 [main] INFO  testCases.TC_018_VerifyPasswordText - *** login details intentionally kept blank***
+11:33:32.755 [main] INFO  testCases.TC_018_VerifyPasswordText - ***Assert test***
+11:33:34.798 [main] INFO  testCases.TC_019_VerifySignInToYourAccountText - ***Starting VerifySignInToYourAccountText Test***
+11:33:40.780 [main] INFO  testCases.TC_019_VerifySignInToYourAccountText - *** login details intentionally kept blank***
+11:33:40.784 [main] INFO  testCases.TC_019_VerifySignInToYourAccountText - ***Assert test***
